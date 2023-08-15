@@ -1,0 +1,12 @@
+#\u6570\u636E\u5E93\u8FDE\u63A5\u6C60\u4FE1\u606F
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/goktech
+    username: root
+    password: 623363564
+
+#MyBatis-Plus\u76F8\u5173\u914D\u7F6E
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl #\u914D\u7F6E\u65E5\u5FD7

@@ -11,7 +11,7 @@ import java.sql.ResultSet;
 import java.util.Properties;
 
 /**
- * {@code @Description:} 数据库连接池工具类
+ * {@code @description:} 数据库连接池工具类
  */
 public class DpUtils {
     /**

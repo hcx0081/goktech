@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.sql.Timestamp;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Car {
     private String license;

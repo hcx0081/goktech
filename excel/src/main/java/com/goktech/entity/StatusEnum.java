@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 @Getter
 @AllArgsConstructor

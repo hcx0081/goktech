@@ -6,7 +6,7 @@ import com.goktech.service.impl.CarServiceImpl;
 import java.util.Scanner;
 
 /**
- * {@code @Description:} 视图
+ * {@code @description:} 视图
  */
 public class View {
     private static CarService carService = new CarServiceImpl();

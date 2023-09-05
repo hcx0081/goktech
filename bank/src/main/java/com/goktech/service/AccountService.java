@@ -5,7 +5,7 @@ import com.goktech.pojo.Account;
 import java.math.BigDecimal;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public interface AccountService {
     /**

@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import java.util.List;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 class OwnerDaoImplTest {
     OwnerDao ownerDao = new OwnerDaoImpl();

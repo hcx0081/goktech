@@ -15,7 +15,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class OwnerDaoImpl implements OwnerDao {
     /**

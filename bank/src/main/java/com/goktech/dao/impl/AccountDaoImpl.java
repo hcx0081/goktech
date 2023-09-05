@@ -12,7 +12,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class AccountDaoImpl implements AccountDao {
     /**

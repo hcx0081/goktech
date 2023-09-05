@@ -5,7 +5,7 @@ import java.sql.Timestamp;
 import java.util.Date;
 
 /**
- * {@code @Description:} 账单实体类
+ * {@code @description:} 账单实体类
  */
 public class Bill {
     private String billId;

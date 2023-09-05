@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.sql.Timestamp;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 class CarDaoImplTest {
     CarDao carDao = new CarDaoImpl();

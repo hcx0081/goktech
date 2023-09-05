@@ -8,7 +8,7 @@ import com.goktech.service.AccountService;
 import java.math.BigDecimal;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class AccountServiceImpl implements AccountService {
     

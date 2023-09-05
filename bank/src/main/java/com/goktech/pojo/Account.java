@@ -3,7 +3,7 @@ package com.goktech.pojo;
 import java.math.BigDecimal;
 
 /**
- * {@code @Description:} 账户实体类
+ * {@code @description:} 账户实体类
  */
 public class Account {
     private long cardid;

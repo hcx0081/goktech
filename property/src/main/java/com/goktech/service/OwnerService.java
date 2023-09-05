@@ -1,7 +1,7 @@
 package com.goktech.service;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public interface OwnerService {
     /**

@@ -9,7 +9,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public interface OwnerDao {
     

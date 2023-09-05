@@ -8,7 +8,7 @@ import lombok.Data;
 import java.time.LocalDateTime;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 @Data
 public class StudentData {

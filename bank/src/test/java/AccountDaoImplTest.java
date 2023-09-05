@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.sql.Connection;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 class AccountDaoImplTest {
     public void addAccount(long cardId, String password, BigDecimal balance) {

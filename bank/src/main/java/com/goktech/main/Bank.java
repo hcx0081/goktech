@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.util.Scanner;
 
 /**
- * {@code @Description:} 银行系统
+ * {@code @description:} 银行系统
  */
 public class Bank {
     static AccountService accountService = new AccountServiceImpl();

@@ -14,7 +14,7 @@ import java.time.LocalDate;
 import java.util.*;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class OwnerServiceImpl implements OwnerService {
     Scanner scanner = new Scanner(System.in);

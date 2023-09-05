@@ -3,7 +3,7 @@ package com.goktech.pojo;
 import java.util.Date;
 
 /**
- * {@code @Description:} 业主信息实体类
+ * {@code @description:} 业主信息实体类
  */
 public class Owner {
     private String id;

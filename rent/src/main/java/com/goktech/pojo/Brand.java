@@ -1,7 +1,7 @@
 package com.goktech.pojo;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Brand {
     private int brandId;
